@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-dotenv
+openai
+python-multipart
+speechrecognition
+pydub
+gtts
+aiofiles
+
+# Сейчас (рекомендую)
+psycopg2-binary>=2.9
+
+# Через полгода–год, когда будет нагрузка
+# asyncpg
+# sqlalchemy[asyncio]
